@@ -5,7 +5,7 @@
 The project uses data pertaining to solar capacity across the US obtained from Google's big query database, and estimate (based on three engineered indices) which state, under various natural considerations, would be ideal for a home-solar-panel-installation. The results from this data project are outlined in [this blog post](https://asuresh213.github.io/2024/02/29/solar/). Here is also [an interactive Tableau dashboard](https://public.tableau.com/app/profile/arun.suresh3275/viz/Capstone_Solar_Mainland_US/FinalCapstone) compiling results from this project - aggregating state-wide results, while also providing more granular zip-code-wise estimates.
 
 
-### GOogle Adv. Data Analytics capstone project
+### Google Adv. Data Analytics capstone project
 
 This project analyzes a dataset provided by a mobile app waze that helps consumers route their journey from one point to another. The project aims to extract from this data, the underlying reason for user Churn. The project was split into five guided assignments, each involving a different dimension of data analysis -
 
